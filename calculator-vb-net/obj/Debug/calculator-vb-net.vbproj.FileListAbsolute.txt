@@ -1,0 +1,11 @@
+C:\Alex Mark Patey\old projects from school\calculator-vb-net\bin\Debug\calculator-vb-net.exe.config
+C:\Alex Mark Patey\old projects from school\calculator-vb-net\bin\Debug\calculator-vb-net.exe
+C:\Alex Mark Patey\old projects from school\calculator-vb-net\bin\Debug\calculator-vb-net.pdb
+C:\Alex Mark Patey\old projects from school\calculator-vb-net\bin\Debug\calculator-vb-net.xml
+C:\Alex Mark Patey\old projects from school\calculator-vb-net\obj\Debug\calculator-vb-net.vbprojAssemblyReference.cache
+C:\Alex Mark Patey\old projects from school\calculator-vb-net\obj\Debug\calculator_vb_net.Form1.resources
+C:\Alex Mark Patey\old projects from school\calculator-vb-net\obj\Debug\calculator_vb_net.Resources.resources
+C:\Alex Mark Patey\old projects from school\calculator-vb-net\obj\Debug\calculator-vb-net.vbproj.GenerateResource.cache
+C:\Alex Mark Patey\old projects from school\calculator-vb-net\obj\Debug\calculator-vb-net.exe
+C:\Alex Mark Patey\old projects from school\calculator-vb-net\obj\Debug\calculator-vb-net.xml
+C:\Alex Mark Patey\old projects from school\calculator-vb-net\obj\Debug\calculator-vb-net.pdb
